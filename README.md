@@ -17,7 +17,7 @@ Exemplo de integração com Bigtable usando Go
 
 3. Configure o banco
 
-`$ setup-db`
+`$ make setup-db`
 
 4. Rode os exemplos
 ```
